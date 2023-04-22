@@ -11,7 +11,7 @@ body {
 }
 
 .two {
-  background: lightblue;
+  background: red;
   border: 3px solid purple;
   /* CHANGE ME */
   margin-bottom: 48px;
